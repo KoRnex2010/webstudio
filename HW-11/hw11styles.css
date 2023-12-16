@@ -1,0 +1,130 @@
+.firsta
+        {text-decoration: none;
+        color: #2196F3;
+        font-size: 14px;
+        font-family: Roboto;
+        font-weight: 500;
+        letter-spacing: 0.28px;
+        word-wrap: break-word}
+body
+        {font-family: 'Roboto', sans-serif;}
+.tel
+        {color: #757575;
+         font-size: 14px;
+         font-family: Roboto;
+         font-weight: 500;
+         letter-spacing: 0.28px;
+         word-wrap: break-word}
+.email
+        {color: #2196F3;
+         font-size: 14px;
+         font-family: Roboto;
+        font-weight: 500;
+         letter-spacing: 0.28px;
+        word-wrap: break-word}
+a
+        {color: #212121;
+        text-decoration: none;
+        font-size: 14px;
+        font-family: Roboto;
+        font-weight: 500;
+        letter-spacing: 0.28px;
+        word-wrap: break-word}
+h2
+        {color: white;
+        font-size: 44px;
+        font-family: Roboto;
+        font-weight: 900;
+        text-transform: uppercase;
+        line-height: 60px;
+        letter-spacing: 2.64px;
+        word-wrap: break-word}
+.container{background-color: black;}
+ button{background-color: blue;
+        color: white;
+        font-size: 16px;
+        font-family: Roboto;
+        font-weight: 700;
+        line-height: 30px;
+        letter-spacing: 0.96px;
+        word-wrap: break-word}
+h3
+        {color: #212121;
+        font-size: 14px;
+        font-family: Roboto;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.42px;
+        word-wrap: break-word}
+h4
+        {color: #212121;
+        font-size: 36px;
+        font-family: Roboto;
+        font-weight: 700;
+        letter-spacing: 1.08px;
+        word-wrap: break-word}
+h5
+        {color: #212121;
+        font-size: 16px;
+        font-family: Roboto;
+        font-weight: 500;
+        letter-spacing: 0.48px;
+        word-wrap: break-word}
+.text
+        {color: #757575;
+         font-size: 16px;
+        font-family: Roboto;
+        font-weight: 400;
+         letter-spacing: 0.48px;
+        word-wrap: break-word}
+address
+        {color: white;
+        font-size: 14px;
+        font-family: Roboto;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.42px;
+        word-wrap: break-word}
+.persinform
+        {color: rgba(255, 255, 255, 0.60);
+        font-size: 14px;
+        font-family: Roboto;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.42px;
+        word-wrap: break-word}
+.containerlast
+        {background-color: black;}
+h6
+        {color: grey;
+        font-size: 26px;
+        font-family: Raleway;
+        font-weight: 700;
+        letter-spacing: 0.78px;
+        word-wrap: break-word}
+:root
+        {color: white;
+        color: #757575;
+        background-color: black;
+        background-color: white;
+        color: rgba(255, 255, 255, 0.60);
+        color: grey;
+        color: #212121;
+        color: #2196F3;}
+p
+        {color: #757575;
+        font-size: 14px;
+        font-family: Roboto;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.42px;
+        word-wrap: break-word}
+ul
+        {list-style-type: none;}
+.main-container
+        {background-color: white;}
+        
+
+
+
+        
